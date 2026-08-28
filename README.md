@@ -9,4 +9,4 @@ Model: EfficientNet-B0 (pre-trained on ImageNet, fine-tuned on emotion dataset)
 Training: Uses Optuna for hyperparameter tuning (20 trials), then trains on best parameters
 Regularization: Dropout, Batch Normalization, L2 weight decay, learning rate scheduling
 Backend: FastAPI REST API
-Frontend: Streamlit web app
+Frontend: Streamlit web app(https://facial-expression-recognizer-kxsyrgep6pqrduj7fyzi32.streamlit.app/)
