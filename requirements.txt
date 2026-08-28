@@ -5,9 +5,8 @@ tqdm==4.66.1
 optuna==3.0.5
 fastapi==0.104.1
 uvicorn==0.24.0
-pillow==10.0.0
-numpy==1.24.3
-streamlit==1.28.0
+pillow==12.3.0
+numpy==2.2.6
+streamlit==1.62.0
 requests==2.31.0
-matplotlib==3.7.2
-
+matplotlib==3.10.8
